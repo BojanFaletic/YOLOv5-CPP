@@ -1,0 +1,4 @@
+models/*.weights
+libtorch
+build
+.vscode
